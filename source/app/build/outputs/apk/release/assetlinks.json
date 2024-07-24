@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "dev.pages.hova_map.twa",
+        "sha256_cert_fingerprints": ["7F:54:10:D9:D8:51:90:8E:D9:B4:30:0B:6C:D5:B7:27:59:D5:F8:3E:75:80:DD:F7:B7:3E:7B:95:55:68:AE:2A"]
+      }
+    }]
